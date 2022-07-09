@@ -25,9 +25,9 @@ import json
 from pyrohelpers import  * #extract_user ,get_file_id,last_online
 bot= Client(
     "my_account",
-    api_id=16116648, api_hash="1aa4178adaa58f92e6db71a381fb3a9b",
+    api_id="", api_hash="",
 
-    bot_token="5345571800:AAEBPznCGzPOfJ6o5LAYkEpdjokUMPIfZBo"
+    bot_token=""
 )
 
 owner_id = int("1259219363")
